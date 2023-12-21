@@ -21,4 +21,10 @@ public class Folder {
 		this.foname = foname;
 	}
 
+	@Override
+	public String toString() {
+		return "Folder [foname=" + foname + ", foid=" + foid + "]";
+	}
+	
+	
 }

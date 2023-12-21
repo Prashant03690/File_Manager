@@ -68,4 +68,12 @@ public class File {
 		this.foid = foid;
 	}
 
+	@Override
+	public String toString() {
+		return "File [fid=" + fid + ", fname=" + fname + ", fcontent=" + fcontent + ", ftype=" + ftype
+				+ ", fcreationdate=" + fcreationdate + ", fmodifieddate=" + fmodifieddate + ", foid=" + foid + "]";
+	}
+	
+	
+
 }

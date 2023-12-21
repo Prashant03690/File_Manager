@@ -39,4 +39,11 @@ public class User {
 	public void setUpassword(String upassword) {
 		this.upassword = upassword;
 	}
+
+	@Override
+	public String toString() {
+		return "User [uid=" + uid + ", uname=" + uname + ", uemail=" + uemail + ", upassword=" + upassword + "]";
+	}
+	
+	
 }
