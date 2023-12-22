@@ -122,7 +122,7 @@ h1 {
 		<p
 			style="font-weight: bold; color: red; font-family: 'Your-Beautiful-Font', sans-serif; font-size: 18px; margin: 0; padding: 0;">
 			<span style="color: black; -webkit-text-stroke: 0.1px black;">
-				Login To Use Our Services</span>
+				Please Login To Use Our Services</span>
 		</p>
 
 		<div class="card">
