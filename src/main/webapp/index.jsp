@@ -121,7 +121,7 @@ h1 {
 			INFOTECH LLC</h2>
 		<p
 			style="font-weight: bold; color: red; font-family: 'Your-Beautiful-Font', sans-serif; font-size: 18px; margin: 0; padding: 0;">
-			<span style="color: black; -webkit-text-stroke: 0.1px black;">Please
+			<span style="color: black; -webkit-text-stroke: 0.1px black;">
 				Login To Use Our Services</span>
 		</p>
 
